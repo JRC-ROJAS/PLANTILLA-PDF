@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vTb9uWlApE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrojasc\\Desktop\\JROJASC\\JROJASC\\3 PROYECTOS\\DOCUMENTOS\\PLANTILLAS\\PLANTILLAS\\PLANTILLAS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrojasc\\.nuget\\packages\\harfbuzzsharp\\7.3.0.1\\harfbuzzsharp.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\jrojasc\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0.1\\harfbuzzsharp.nativeassets.macos.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\jrojasc\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0.1\\harfbuzzsharp.nativeassets.win32.7.3.0.1.nupkg.sha512",
+    "C:\\Users\\jrojasc\\.nuget\\packages\\questpdf\\2023.12.6\\questpdf.2023.12.6.nupkg.sha512",
+    "C:\\Users\\jrojasc\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\jrojasc\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.7\\skiasharp.harfbuzz.2.88.7.nupkg.sha512",
+    "C:\\Users\\jrojasc\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\jrojasc\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512"
+  ],
+  "logs": []
+}
